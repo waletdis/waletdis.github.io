@@ -1,0 +1,23 @@
+{
+  "short_name": "WND",
+  "name": "Windfall",
+  "description": "Farm WND with WND LP Tokens",
+  "homepage_url": "https://windfalldao.com",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#A55ADF",
+  "background_color": "#efe9e7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
